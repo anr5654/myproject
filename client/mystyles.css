@@ -1,0 +1,55 @@
+<style>
+body
+{
+	background: #020C24;
+}
+
+#Loginbutton
+{
+	border-radius: 6px;
+	font-family: 'Verdana';
+	width: 150px;
+	font-size: 18px;
+}
+
+#Signupbutton
+{
+	border-radius: 6px;
+	font-family: 'Verdana';
+	width: 150px;
+	font-size: 18px;
+}
+
+#Signupbutton
+{
+	border-radius: 6px;
+	font-family: 'Verdana';
+	width: 150px;
+	font-size: 18px;
+}
+
+#content
+{
+	font-family: 'Quicksand', sans-serif;
+	color: #ffffff;
+	background: #03194D;
+	text-align: center;
+	height: auto;
+	width: 30%;
+	right: 33%;
+	border-radius: 7px;
+	top: 40%;
+
+	position: absolute;
+}
+
+#mycontent
+{
+	font-family: 'Quicksand', sans-serif;
+	color: #ffffff;
+	background: #03194D;
+	text-align: center;
+	height: auto;
+	border-radius: 7px;
+}
+</style>
